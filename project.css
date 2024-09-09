@@ -1,0 +1,139 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/top-view-raspberry-flavor-ice-cream_23-2148268208.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 32.1%;
+}
+#div0{
+    text-align: center;
+}
+#div0>img{
+    width: 16%;
+    margin-top: 20px;
+}
+#menu1{
+    text-align: center;
+}
+#menu1>a{
+    padding-right: 20px;
+    background-color: rgba(24, 27, 24, 0.247);
+    padding: 0.4rem 0.7rem;
+    margin: 0.1rem 0.2rem;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+h2{
+    text-align: center;
+}
+#div2{
+    text-align: center;
+    /* border: 10px solid rgba(0, 0, 0, 0.514); */
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 2rem 2rem 2rem 2rem;
+}
+#img1{
+    width: 30.5%;
+    padding-right: 1rem;
+    filter: blur(1px);
+    transition: 0.5s;
+}
+#img1:hover {
+    filter: blur(0px);
+    transform: scale(1.18);
+}
+#img2{
+    width: 30.5%;
+    padding-right: 1rem;
+    filter: blur(1px);
+    transition: 0.5s;
+}
+#img2:hover {
+    filter: blur(0px);
+    transform: scale(1.18);
+}
+#img3{
+    width: 30.5%;
+    padding-right: 1rem;
+    filter: blur(1px);
+    transition: 0.5s;
+}
+#img3:hover {
+    filter: blur(0px);
+    transform: scale(1.18);
+}
+#div1{
+    text-align: center;
+    margin-bottom: 4rem;
+}
+#div1>a{
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    
+}
+#div3{
+    text-align: left;
+    background-color: rgba(88, 88, 197, 0.466);
+    padding-bottom: 2px;
+}
+#div3>h2{
+    text-align: left;
+    font-size: 35px;
+}
+/* #he{
+    font-size: 10rem;
+    padding: 0rem;
+    margin: 0rem;
+} */
+/* video{
+    width: 50%;
+    border: 2px solid black;
+} */
+#div3>h3{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+#h5{
+    text-align: left;
+    font-size: 14px;
+    position: relative;
+    left: 8px;
+    bottom: 30px;
+}
+#div3>p{
+    text-align: left;
+    font-size: 9.5px;
+    line-height: 16px;
+    position: relative;
+    left: 8px;
+    bottom: 20px;
+}
+#vdo{
+    position: sticky;
+    width: 50%;
+    float: left;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#Sign{
+    margin-top: 1.5rem;
+    padding-top: 2rem;
+    padding-bottom: 0.2rem;
+    background-color:rgba(78, 241, 2, 0.411);
+    text-align: center;
+}   
+button{
+    color: red;
+}
+
